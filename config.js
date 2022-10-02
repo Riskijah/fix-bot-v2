@@ -37,19 +37,19 @@ global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pdana = '083873407979' //dana
+global.povo = '083873407979' //ovo
+global.pgopay = '083873407979' //gopay
+global.plinkaja = '083873407979' //link aja
+global.ppulsa = '083873407979' //telkomsel
+global.ppulsa2 = '083873407979' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628XXXXXXXXXX'
-global.nomorown = '628XXXXXXXXXX'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6289603421925'
+global.nomorown = '6283873407979'
+global.namebot = 'CimoyBOT-V1'
+global.nameown = 'RizGanz'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -61,7 +61,7 @@ global.owner = [
   ['628XXXXXXXXXX', 'WH MODS DEV', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
+  ['083873407979', 'RizGanz', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'CimoyBOT-V1'
+global.stickauth = `By ©RizGanz-Dev`
 
 global.multiplier = 38 // The higher, The harder levelup
 
